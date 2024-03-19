@@ -1,0 +1,1 @@
+# Hello! I'm Guroki18! Full Stack Developer in git
