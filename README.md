@@ -13,3 +13,9 @@ If you want contact me, my telephone number is 99999999
 - HTML
 - CSS
 - JS
+
+## Hobbies
+
+- Play videogames online
+- Play instruments like guitars, bass or drums
+- Listen to all kinds of music
