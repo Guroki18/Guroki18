@@ -8,6 +8,12 @@ Hi!! My name is Guroki18 and i learning programation full Stack Developer with e
 
 If you want contact me, my telephone number is 99999999
 
+## Technologies
+
+- HTML
+- CSS
+- JS
+
 ## Hobbies
 
 - Play videogames online
